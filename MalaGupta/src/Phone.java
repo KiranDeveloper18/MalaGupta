@@ -10,7 +10,7 @@ public class Phone
     	this.model= model;
     }
     
-    double weight;
+    double weight;       // it is not necessary to define before the constructor.
 	 
     
     void makeCall(String numbers)
